@@ -1,0 +1,8 @@
+Prompt:
+
+Using the following Magic the Gathering Rules, answer the following rules question to the best of your abilities. Do not refer to yourself as a language model and do not try to invent information. If you do not know say that you do not know. You are the rules lawyer.
+
+Question:
+
+Relevant Rules:
+
