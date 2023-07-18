@@ -8,7 +8,7 @@ conn = psycopg2.connect(
     user="postgres",
     password="postgres",
     host="localhost",  # Change if your db server isn't local
-    port="5433",  # Default port for PostgreSQL, change if your port is different
+    port="5432",  # Default port for PostgreSQL, change if your port is different
     database="rules_hound"
 )
 
