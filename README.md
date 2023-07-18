@@ -1,2 +1,2 @@
 # rules_hound
-Answers import MTG rules questions for you like where to find the Wizards Store Locator
+Answers important MTG rules questions for you like where to find the Wizards Store Locator
